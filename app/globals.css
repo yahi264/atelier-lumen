@@ -1,0 +1,133 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+/* Palette: warm ivory paper, deep espresso ink and brushed champagne gold. */
+@theme {
+  --color-ink: #100e0c;
+  --color-espresso: #1b1815;
+  --color-ivory: #f7f3ec;
+  --color-linen: #ece5d9;
+  --color-champagne: #b89b72;
+  --color-champagne-light: #dcc7a3;
+  --color-stone: #8c837a;
+
+  /* Theme surfaces — they switch in dark mode (html.dark below) */
+  --color-paper: #f7f3ec;
+  --color-paper-2: #ece5d9;
+  --color-card: #fffdf9;
+  --color-fg: #1b1815;
+  --color-fg-muted: #6f675f;
+  --color-line: rgb(27 24 21 / 0.14);
+
+  --font-display: var(--font-cormorant), "Times New Roman", serif;
+  --font-sans: var(--font-jost), system-ui, sans-serif;
+
+  --ease-lux: cubic-bezier(0.22, 1, 0.36, 1);
+  --ease-curtain: cubic-bezier(0.76, 0, 0.24, 1);
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  html.lenis, html.lenis body {
+    height: auto;
+  }
+  .lenis.lenis-smooth {
+    scroll-behavior: auto !important;
+  }
+  body {
+    @apply bg-paper text-fg font-sans antialiased;
+    transition: background-color 0.6s ease, color 0.6s ease;
+  }
+  ::selection {
+    background: rgb(184 155 114 / 0.35);
+  }
+  /* Hide the system cursor only where the custom one is running */
+  html.has-cursor, html.has-cursor * {
+    cursor: none !important;
+  }
+}
+
+@utility eyebrow {
+  @apply text-[0.68rem] font-medium uppercase tracking-[0.38em];
+}
+@utility container-x {
+  @apply mx-auto w-full max-w-[90rem] px-5 sm:px-10;
+}
+@utility btn {
+  @apply relative inline-flex items-center justify-center gap-3 overflow-hidden px-8 py-4 text-[0.7rem] font-medium uppercase tracking-[0.3em] transition-colors duration-500;
+}
+@utility field {
+  @apply w-full border-0 border-b border-line bg-transparent px-0 pb-3 pt-6 text-base text-fg outline-none transition-colors duration-500 placeholder:text-transparent focus:border-champagne;
+}
+@utility gold-text {
+  background: linear-gradient(100deg, #a0835b 0%, #e9d8b8 30%, #b89b72 50%, #f3e6cc 72%, #a98b62 100%);
+  background-size: 200% 100%;
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  animation: shimmer 7s ease-in-out infinite;
+}
+@keyframes shimmer {
+  0%, 100% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+}
+
+/* Arabic: its own typefaces and no letter-spacing (it breaks joined letters) */
+html[lang="ar"] {
+  --font-display: var(--font-amiri), serif;
+  --font-sans: var(--font-tajawal), system-ui, sans-serif;
+}
+html[lang="ar"] * {
+  letter-spacing: 0 !important;
+}
+
+@utility scrollbar-none {
+  scrollbar-width: none;
+  &::-webkit-scrollbar { display: none; }
+}
+
+/* Film grain over the whole page */
+body::after {
+  content: "";
+  position: fixed;
+  inset: -50%;
+  z-index: 70;
+  pointer-events: none;
+  opacity: 0.06;
+  mix-blend-mode: multiply;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='180' height='180'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  animation: grain 1.2s steps(6) infinite;
+}
+@keyframes grain {
+  0% { transform: translate(0, 0); }
+  20% { transform: translate(-3%, 2%); }
+  40% { transform: translate(2%, -3%); }
+  60% { transform: translate(-2%, -1%); }
+  80% { transform: translate(3%, 3%); }
+  100% { transform: translate(0, 0); }
+}
+
+/* ── Dark mode: espresso surfaces, ivory text, champagne accents ── */
+html.dark {
+  color-scheme: dark;
+  --color-paper: #100e0c;
+  --color-paper-2: #191613;
+  --color-card: #1f1b17;
+  --color-fg: #efe8dc;
+  --color-fg-muted: #a39a8f;
+  --color-line: rgb(239 232 220 / 0.14);
+}
+html.dark body::after {
+  mix-blend-mode: screen;
+  opacity: 0.045;
+}
+html.theme-switching *, html.theme-switching *::before, html.theme-switching *::after {
+  transition: background-color 0.6s ease, border-color 0.6s ease, color 0.6s ease, fill 0.6s ease !important;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  body::after, .gold-text { animation: none; }
+}
