@@ -1,0 +1,45 @@
+1:"$Sreact.fragment"
+2:"/atelier-lumen/_next/static/chunks/1ua2kfq9s-me6.js"
+3:I[39756,["$2"],"default"]
+4:I[37457,["$2"],"default"]
+9:"/atelier-lumen/_next/static/chunks/0suh446jxgxtv.js"
+a:"/atelier-lumen/_next/static/chunks/2vp8bzay4uyoy.js"
+b:I[62474,["$9","$a"],"themeScript"]
+c:I[24100,["$9","$a"],"SmoothScroll"]
+d:I[11737,["$9","$a"],"Preloader"]
+e:I[24100,["$9","$a"],"ScrollProgress"]
+f:I[24100,["$9","$a"],"Cursor"]
+10:I[70119,["$9","$a"],"Header"]
+11:I[24100,["$9","$a"],"PageTransition"]
+12:I[22016,["$9","$a"],""]
+13:I[56691,["$9","$a"],"Footer"]
+14:I[24100,["$9","$a"],"BackToTop"]
+19:"/atelier-lumen/_next/static/chunks/0ibufouprvrqm.js"
+1a:I[51372,["$9","$a","$19"],"PageHero"]
+1b:I[8128,["$9","$a","$19"],"Collections"]
+1c:I[61680,["$9","$a","$19"],"Process"]
+1d:I[8128,["$9","$a","$19"],"Faq"]
+1e:I[97367,["$2"],"OutletBoundary"]
+1f:"$Sreact.suspense"
+22:"ViewportBoundary"
+23:I[97367,["$2"],"$22"]
+24:"MetadataBoundary"
+25:I[97367,["$2"],"$24"]
+:HL["/atelier-lumen/_next/static/chunks/1opc7hagtjkvh.css","style"]
+6:X
+6:C
+7:X
+18:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[[["$","$L1a",null,{"eyebrow":"The experience","title":"Collections & investment","text":"Every collection includes a pre-wedding consultation, a private online gallery and full-resolution images. Travel within Istanbul is always included."}],["$","$L1b",null,{"locale":"en"}],["$","$L1c",null,{"locale":"en"}],["$","$L1d",null,{"locale":"en"}]],[["$","script","script-0",{"src":"/atelier-lumen/_next/static/chunks/0ibufouprvrqm.js","async":true}]],["$","$L1e",null,{"children":["$","$1f",null,{"name":"Next.MetadataOutlet","children":"$@20"}]}]]}],"p":"$@21","v":null,"s":"$7"}}]]
+16:[["children",{"s":"experience","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@17","v":"$6","s":"$7"},"c":"$Q18"}]]
+8:[["children",{"s":{"n":"locale","t":"d","k":"en","s":[]},"h":65648,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/atelier-lumen/_next/static/chunks/1opc7hagtjkvh.css","precedence":"next"}],["$","script","script-0",{"src":"/atelier-lumen/_next/static/chunks/0suh446jxgxtv.js","async":true}],["$","script","script-1",{"src":"/atelier-lumen/_next/static/chunks/2vp8bzay4uyoy.js","async":true}]],["$","html",null,{"lang":"en","dir":"ltr","className":"IQwK4a_variable qa1k8a_variable j7fipa_variable SqAOFG_variable","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$b"}}]}],["$","body",null,{"children":[["$","$Lc",null,{}],["$","$Ld",null,{"name":"Atelier Lumen","caption":"Developing your story"}],["$","$Le",null,{}],["$","$Lf",null,{"labels":{"view":"View","drag":"Scroll"}}],["$","$L10",null,{"locale":"en"}],["$","main",null,{"children":["$","$L11",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[["$","section",null,{"className":"container-x flex min-h-[80vh] flex-col items-start justify-center pt-24","children":[["$","p",null,{"className":"eyebrow text-champagne","children":"404"}],["$","h1",null,{"className":"mt-6 font-display text-5xl font-light sm:text-7xl","children":"This page drifted out of frame."}],["$","$L12",null,{"href":"/","className":"btn mt-10 border border-fg/25 hover:border-fg","children":"Home"}]]}],[]]}]}]}],["$","$L13",null,{"locale":"en"}],["$","$L14",null,{"label":"Back to top"}]]}]]}]]}],"p":"$@15","v":null,"s":"$7"},"c":"$Q16"}]]
+0:{"t":{"t":{"s":"","h":131152,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]]}],"p":"$@5","v":"$6","s":"$7"},"c":"$Q8"},"h":{"r":["$","$1","h",{"children":[null,["$","$L23",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L25",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1f",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Experience · Atelier Lumen"}],["$","meta","1",{"name":"description","content":"Quiet, cinematic photographs of the day you will want to remember — the vows, the details, the light falling across the room."}],["$","link","2",{"rel":"alternate","hrefLang":"en","href":"/en"}],["$","link","3",{"rel":"alternate","hrefLang":"tr","href":"/tr"}],["$","link","4",{"rel":"alternate","hrefLang":"ar","href":"/ar"}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@26","v":null,"s":"$7"}},"a":"$@27","u":"$@28","b":"xBOFIa-WnD2l4priPbtkH"}
+20:null
+7:300
+28:true
+7:C
+27:0
+17:"$undefined"
+15:"$undefined"
+5:"$undefined"
+26:"$undefined"
+21:"$undefined"

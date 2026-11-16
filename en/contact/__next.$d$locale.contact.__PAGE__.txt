@@ -1,0 +1,49 @@
+1:"$Sreact.fragment"
+2:"/atelier-lumen/_next/static/chunks/1ua2kfq9s-me6.js"
+3:I[39756,["$2"],"default"]
+4:I[37457,["$2"],"default"]
+9:"/atelier-lumen/_next/static/chunks/0suh446jxgxtv.js"
+a:"/atelier-lumen/_next/static/chunks/2vp8bzay4uyoy.js"
+b:I[62474,["$9","$a"],"themeScript"]
+c:"/atelier-lumen/_next/static/chunks/0obl-20se06yq.js"
+d:I[24100,["$9","$a","$c"],"SmoothScroll"]
+e:I[11737,["$9","$a"],"Preloader"]
+f:I[24100,["$9","$a","$c"],"ScrollProgress"]
+10:I[24100,["$9","$a","$c"],"Cursor"]
+11:I[70119,["$9","$a"],"Header"]
+12:I[24100,["$9","$a","$c"],"PageTransition"]
+13:I[22016,["$9","$a"],""]
+14:I[56691,["$9","$a"],"Footer"]
+15:I[24100,["$9","$a","$c"],"BackToTop"]
+1a:I[51372,["$9","$a","$c"],"PageHero"]
+1b:I[24100,["$9","$a","$c"],"Reveal"]
+1c:"$Sreact.suspense"
+1d:I[12063,["$9","$a","$c"],"InquiryForm"]
+1e:I[24100,["$9","$a","$c"],"ParallaxImage"]
+1f:I[5014,["$9","$a","$c"],"default"]
+24:"ViewportBoundary"
+25:I[97367,["$2"],"$24"]
+26:"MetadataBoundary"
+27:I[97367,["$2"],"$26"]
+:HL["/atelier-lumen/_next/static/chunks/1opc7hagtjkvh.css","style"]
+6:X
+6:C
+7:X
+19:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[[["$","$L1a",null,{"eyebrow":"Book a date","title":"Tell us about your day","text":"Share a few details and we will reply within one working day with availability and a tailored proposal."}],["$","section",null,{"className":"container-x grid gap-16 pb-32 lg:grid-cols-12","children":[["$","div",null,{"className":"lg:col-span-7","children":["$","$L1b",null,{"children":["$","$1c",null,{"children":["$","$L1d",null,{"locale":"en"}]}]}]}],["$","aside",null,{"className":"lg:col-span-4 lg:col-start-9","children":[["$","$L1e",null,{"src":"1784822041171-13e87aebc1bf","alt":"Two gold rings on a dark surface","className":"aspect-[4/5]"}],["$","$L1b",null,{"delay":0.2,"children":[["$","p",null,{"className":"eyebrow mt-10 text-champagne","children":"Or reach us directly"}],["$","div",null,{"className":"mt-6 space-y-4 font-light","children":[["$","a",null,{"href":"mailto:hello@atelierlumen.com","className":"flex items-center gap-3 hover:text-champagne","children":[["$","$L1f",null,{"icon":{"name":"mail","size":24,"node":[["path",{"d":"m22 7-8.991 5.727a2 2 0 0 1-2.009 0L2 7","key":"132q7q"}],["rect",{"x":"2","y":"4","width":"20","height":"16","rx":"2","key":"izxlao"}]]},"className":"h-4 w-4 text-champagne","strokeWidth":1.25}]," ","hello@atelierlumen.com"]}],["$","a",null,{"href":"tel:+905000000000","className":"flex items-center gap-3 hover:text-champagne","dir":"ltr","children":[["$","$L1f",null,{"icon":{"name":"phone","size":24,"node":[["path",{"d":"M13.832 16.568a1 1 0 0 0 1.213-.303l.355-.465A2 2 0 0 1 17 15h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2A18 18 0 0 1 2 4a2 2 0 0 1 2-2h3a2 2 0 0 1 2 2v3a2 2 0 0 1-.8 1.6l-.468.351a1 1 0 0 0-.292 1.233 14 14 0 0 0 6.392 6.384","key":"9njp5v"}]]},"className":"h-4 w-4 text-champagne","strokeWidth":1.25}]," ","+90 500 000 00 00"]}],"$L20"]}]]}]]}]]}]],["$L21"],"$L22"]}],"p":"$@23","v":null,"s":"$7"}}]]
+17:[["children",{"s":"contact","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@18","v":"$6","s":"$7"},"c":"$Q19"}]]
+8:[["children",{"s":{"n":"locale","t":"d","k":"en","s":[]},"h":65648,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/atelier-lumen/_next/static/chunks/1opc7hagtjkvh.css","precedence":"next"}],["$","script","script-0",{"src":"/atelier-lumen/_next/static/chunks/0suh446jxgxtv.js","async":true}],["$","script","script-1",{"src":"/atelier-lumen/_next/static/chunks/2vp8bzay4uyoy.js","async":true}]],["$","html",null,{"lang":"en","dir":"ltr","className":"IQwK4a_variable qa1k8a_variable j7fipa_variable SqAOFG_variable","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$b"}}]}],["$","body",null,{"children":[["$","$Ld",null,{}],["$","$Le",null,{"name":"Atelier Lumen","caption":"Developing your story"}],["$","$Lf",null,{}],["$","$L10",null,{"labels":{"view":"View","drag":"Scroll"}}],["$","$L11",null,{"locale":"en"}],["$","main",null,{"children":["$","$L12",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[["$","section",null,{"className":"container-x flex min-h-[80vh] flex-col items-start justify-center pt-24","children":[["$","p",null,{"className":"eyebrow text-champagne","children":"404"}],["$","h1",null,{"className":"mt-6 font-display text-5xl font-light sm:text-7xl","children":"This page drifted out of frame."}],["$","$L13",null,{"href":"/","className":"btn mt-10 border border-fg/25 hover:border-fg","children":"Home"}]]}],[]]}]}]}],["$","$L14",null,{"locale":"en"}],["$","$L15",null,{"label":"Back to top"}]]}]]}]]}],"p":"$@16","v":null,"s":"$7"},"c":"$Q17"}]]
+0:{"t":{"t":{"s":"","h":131152,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]]}],"p":"$@5","v":"$6","s":"$7"},"c":"$Q8"},"h":{"r":["$","$1","h",{"children":[null,["$","$L25",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L27",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1c",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Book a date · Atelier Lumen"}],["$","meta","1",{"name":"description","content":"Quiet, cinematic photographs of the day you will want to remember — the vows, the details, the light falling across the room."}],["$","link","2",{"rel":"alternate","hrefLang":"en","href":"/en"}],["$","link","3",{"rel":"alternate","hrefLang":"tr","href":"/tr"}],["$","link","4",{"rel":"alternate","hrefLang":"ar","href":"/ar"}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@28","v":null,"s":"$7"}},"a":"$@29","u":"$@2a","b":"xBOFIa-WnD2l4priPbtkH"}
+2b:I[97367,["$2"],"OutletBoundary"]
+20:["$","a",null,{"href":"https://wa.me/905000000000","target":"_blank","rel":"noreferrer","className":"flex items-center gap-3 hover:text-champagne","children":[["$","$L1f",null,{"icon":{"name":"message-circle","size":24,"node":[["path",{"d":"M2.992 16.342a2 2 0 0 1 .094 1.167l-1.065 3.29a1 1 0 0 0 1.236 1.168l3.413-.998a2 2 0 0 1 1.099.092 10 10 0 1 0-4.777-4.719","key":"1sd12s"}]]},"className":"h-4 w-4 text-champagne","strokeWidth":1.25}]," WhatsApp"]}]
+21:["$","script","script-0",{"src":"/atelier-lumen/_next/static/chunks/0obl-20se06yq.js","async":true}]
+22:["$","$L2b",null,{"children":["$","$1c",null,{"name":"Next.MetadataOutlet","children":"$@2c"}]}]
+7:300
+2c:null
+2a:true
+7:C
+29:0
+18:"$undefined"
+16:"$undefined"
+5:"$undefined"
+28:"$undefined"
+23:"$undefined"

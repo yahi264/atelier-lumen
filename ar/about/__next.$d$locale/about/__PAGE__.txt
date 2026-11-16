@@ -1,0 +1,55 @@
+1:"$Sreact.fragment"
+2:"/atelier-lumen/_next/static/chunks/1ua2kfq9s-me6.js"
+3:I[39756,["$2"],"default"]
+4:I[37457,["$2"],"default"]
+9:"/atelier-lumen/_next/static/chunks/0suh446jxgxtv.js"
+a:"/atelier-lumen/_next/static/chunks/2vp8bzay4uyoy.js"
+b:I[62474,["$9","$a"],"themeScript"]
+c:"/atelier-lumen/_next/static/chunks/2iwl-1c-qpboc.js"
+d:I[24100,["$9","$a","$c"],"SmoothScroll"]
+e:I[11737,["$9","$a"],"Preloader"]
+f:I[24100,["$9","$a","$c"],"ScrollProgress"]
+10:I[24100,["$9","$a","$c"],"Cursor"]
+11:I[70119,["$9","$a"],"Header"]
+12:I[24100,["$9","$a","$c"],"PageTransition"]
+13:I[22016,["$9","$a"],""]
+14:I[56691,["$9","$a"],"Footer"]
+15:I[24100,["$9","$a","$c"],"BackToTop"]
+1a:I[51372,["$9","$a","$c"],"PageHero"]
+1b:I[24100,["$9","$a","$c"],"ParallaxImage"]
+1c:I[24100,["$9","$a","$c"],"Reveal"]
+1d:I[61680,["$9","$a","$c"],"VelocityMarquee"]
+27:"ViewportBoundary"
+28:I[97367,["$2"],"$27"]
+29:"MetadataBoundary"
+2a:I[97367,["$2"],"$29"]
+2b:"$Sreact.suspense"
+:HL["/atelier-lumen/_next/static/chunks/1opc7hagtjkvh.css","style"]
+6:X
+6:C
+7:X
+19:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[[["$","$L1a",null,{"eyebrow":"الاستوديو","title":"استوديو صغير بعينٍ متأنّية"}],["$","section",null,{"className":"container-x","children":["$","$L1b",null,{"src":"1769812344081-92b3e2ac39c0","alt":"Garden ceremony with a floral aisle","className":"aspect-[16/9] w-full","priority":true,"amount":10}]}],["$","section",null,{"className":"container-x grid gap-12 py-28 sm:py-36 lg:grid-cols-12","children":[["$","$L1c",null,{"className":"lg:col-span-5","children":["$","p",null,{"className":"font-display text-3xl font-light leading-snug sm:text-4xl","children":"بدأ أتيليه لومن بإيمان بسيط: الزفاف تاريخ عائلة يُكتب في يوم واحد. ومهمتنا أن نحفظ هذا التاريخ — بصدق وأناقة ودون إزعاج."}]}],["$","$L1c",null,{"delay":0.15,"className":"lg:col-span-5 lg:col-start-8","children":["$","p",null,{"className":"font-light leading-loose text-fg-muted","children":"نحن فريق صغير من المصورين والمحررين. نحترم تقاليد كل عائلة وخصوصيتها: عند الطلب نعمل بفرق منفصلة، أو نصوّر التفاصيل والأماكن فقط، أو نسلّم معارض لا تُنشر أبدًا."}]}]]}],["$","$L1d",null,{"text":"العهود · التفاصيل · الضوء · الاحتفال · الإرث ·"}],["$","section",null,{"className":"container-x py-28 sm:py-36","children":[["$","$L1c",null,{"children":["$","h2",null,{"className":"font-display text-4xl font-light sm:text-6xl","children":"ما نلتزم به"}]}],["$","div",null,{"className":"mt-16 grid gap-10 sm:grid-cols-3","children":[["$","$L1c","0",{"delay":0,"className":"group border-t border-line pt-8","children":[["$","span",null,{"className":"font-display text-sm text-champagne","children":["0",1]}],"$L1e","$L1f"]}],"$L20","$L21"]}]]}],"$L22","$L23"],["$L24"],"$L25"]}],"p":"$@26","v":null,"s":"$7"}}]]
+17:[["children",{"s":"about","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@18","v":"$6","s":"$7"},"c":"$Q19"}]]
+8:[["children",{"s":{"n":"locale","t":"d","k":"ar","s":[]},"h":65648,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/atelier-lumen/_next/static/chunks/1opc7hagtjkvh.css","precedence":"next"}],["$","script","script-0",{"src":"/atelier-lumen/_next/static/chunks/0suh446jxgxtv.js","async":true}],["$","script","script-1",{"src":"/atelier-lumen/_next/static/chunks/2vp8bzay4uyoy.js","async":true}]],["$","html",null,{"lang":"ar","dir":"rtl","className":"IQwK4a_variable qa1k8a_variable j7fipa_variable SqAOFG_variable","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$b"}}]}],["$","body",null,{"children":[["$","$Ld",null,{}],["$","$Le",null,{"name":"Atelier Lumen","caption":"نُحمّض قصتكم"}],["$","$Lf",null,{}],["$","$L10",null,{"labels":{"view":"عرض","drag":"مرّر"}}],["$","$L11",null,{"locale":"ar"}],["$","main",null,{"children":["$","$L12",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[["$","section",null,{"className":"container-x flex min-h-[80vh] flex-col items-start justify-center pt-24","children":[["$","p",null,{"className":"eyebrow text-champagne","children":"404"}],["$","h1",null,{"className":"mt-6 font-display text-5xl font-light sm:text-7xl","children":"This page drifted out of frame."}],["$","$L13",null,{"href":"/","className":"btn mt-10 border border-fg/25 hover:border-fg","children":"Home"}]]}],[]]}]}]}],["$","$L14",null,{"locale":"ar"}],["$","$L15",null,{"label":"العودة للأعلى"}]]}]]}]]}],"p":"$@16","v":null,"s":"$7"},"c":"$Q17"}]]
+0:{"t":{"t":{"s":"","h":131152,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]]}],"p":"$@5","v":"$6","s":"$7"},"c":"$Q8"},"h":{"r":["$","$1","h",{"children":[null,["$","$L28",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L2a",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$2b",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"الاستوديو · Atelier Lumen"}],["$","meta","1",{"name":"description","content":"صور هادئة بروح سينمائية ليومٍ ستتمنى تذكّره دائمًا — العهود والتفاصيل والضوء المنساب في المكان."}],["$","link","2",{"rel":"alternate","hrefLang":"en","href":"/en"}],["$","link","3",{"rel":"alternate","hrefLang":"tr","href":"/tr"}],["$","link","4",{"rel":"alternate","hrefLang":"ar","href":"/ar"}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@2c","v":null,"s":"$7"}},"a":"$@2d","u":"$@2e","b":"xBOFIa-WnD2l4priPbtkH"}
+2f:I[61680,["$9","$a","$c"],"DetailMosaic"]
+30:I[61680,["$9","$a","$c"],"Stats"]
+31:I[97367,["$2"],"OutletBoundary"]
+1e:["$","h3",null,{"className":"mt-4 font-display text-3xl font-light transition-transform duration-700 group-hover:translate-x-2 rtl:group-hover:-translate-x-2","children":"التكتّم"}]
+1f:["$","p",null,{"className":"mt-3 font-light leading-relaxed text-fg-muted","children":"حضور هادئ ومعارض خاصة بشكل افتراضي."}]
+20:["$","$L1c","1",{"delay":0.12,"className":"group border-t border-line pt-8","children":[["$","span",null,{"className":"font-display text-sm text-champagne","children":["0",2]}],["$","h3",null,{"className":"mt-4 font-display text-3xl font-light transition-transform duration-700 group-hover:translate-x-2 rtl:group-hover:-translate-x-2","children":"الإتقان"}],["$","p",null,{"className":"mt-3 font-light leading-relaxed text-fg-muted","children":"كل صورة تُعدَّل يدويًا، لا بالإعدادات الجاهزة وحدها."}]]}]
+21:["$","$L1c","2",{"delay":0.24,"className":"group border-t border-line pt-8","children":[["$","span",null,{"className":"font-display text-sm text-champagne","children":["0",3]}],["$","h3",null,{"className":"mt-4 font-display text-3xl font-light transition-transform duration-700 group-hover:translate-x-2 rtl:group-hover:-translate-x-2","children":"الاحترام"}],["$","p",null,{"className":"mt-3 font-light leading-relaxed text-fg-muted","children":"تقاليدكم تحدد ما نصوّره وكيف نصوّره."}]]}]
+22:["$","$L2f",null,{}]
+23:["$","$L30",null,{"locale":"ar"}]
+24:["$","script","script-0",{"src":"/atelier-lumen/_next/static/chunks/2iwl-1c-qpboc.js","async":true}]
+25:["$","$L31",null,{"children":["$","$2b",null,{"name":"Next.MetadataOutlet","children":"$@32"}]}]
+7:300
+32:null
+2e:true
+7:C
+2d:0
+18:"$undefined"
+16:"$undefined"
+5:"$undefined"
+2c:"$undefined"
+26:"$undefined"

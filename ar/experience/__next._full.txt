@@ -1,0 +1,53 @@
+1:"$Sreact.fragment"
+2:"/atelier-lumen/_next/static/chunks/1ua2kfq9s-me6.js"
+3:I[39756,["$2"],"default"]
+4:I[37457,["$2"],"default"]
+b:I[97367,["$2"],"OutletBoundary"]
+c:"$Sreact.suspense"
+e:"ViewportBoundary"
+f:I[97367,["$2"],"$e"]
+11:"MetadataBoundary"
+12:I[97367,["$2"],"$11"]
+14:I[68027,[],"default",1]
+:HL["/atelier-lumen/_next/static/chunks/1opc7hagtjkvh.css","style"]
+:HL["/atelier-lumen/_next/static/media/01d6212a423b17a1-s.p.1pvupmngxrt5z.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/atelier-lumen/_next/static/media/25749dd09fc345e8-s.p.0ji0xjltb6ro5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/atelier-lumen/_next/static/media/33937fdcfd95f425-s.p.24y4-vc3jpn8m.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/atelier-lumen/_next/static/media/6f3ab718e3727c1a-s.p.3huc2loe0ie8a.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/atelier-lumen/_next/static/media/78eb2d37ccba2007-s.p.2csanl8cs02r-.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/atelier-lumen/_next/static/media/876afd304081d8d5-s.p.0ynndep8xbos8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/atelier-lumen/_next/static/media/97ea1d7b8ac40ba2-s.p.1-qpv3jvnkkyl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/atelier-lumen/_next/static/media/9eff0a3f1ba11d74-s.p.3aak_kra40y8r.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/atelier-lumen/_next/static/media/b3db9f750640a943-s.p.0dguglgc-iz4q.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/atelier-lumen/_next/static/media/b4416af7d770c10a-s.p.1zf0xf1cyi65q.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/atelier-lumen/_next/static/media/bff24dc14ce4541e-s.p.1mou8v493x-u7.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/atelier-lumen/_next/static/media/da019ebb2bb95d1e-s.p.0va-taltqcoyb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/atelier-lumen/_next/static/media/ff0a99819acba747-s.p.0i035u9dx55k8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+5:X
+9:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$La",[["$","script","script-0",{"src":"/atelier-lumen/_next/static/chunks/0ibufouprvrqm.js","async":true,"nonce":"$undefined"}]],["$","$Lb",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@d"}]}]]}],"p":false,"v":null}}]]
+8:[["children",{"s":"experience","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$5"},"c":"$Q9"}]]
+6:[["children",{"s":{"n":"locale","t":"d","k":"ar","s":[]},"h":66064,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/atelier-lumen/_next/static/chunks/1opc7hagtjkvh.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/atelier-lumen/_next/static/chunks/0suh446jxgxtv.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/atelier-lumen/_next/static/chunks/2vp8bzay4uyoy.js","async":true,"nonce":"$undefined"}]],"$L7"]}],"p":false,"v":null},"c":"$Q8"}]]
+0:{"P":null,"c":["","ar","experience",""],"q":"","i":false,"t":{"t":{"s":"","h":131600,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$5"},"c":"$Q6"},"h":{"r":["$","$1","h",{"children":[null,["$","$Lf",null,{"children":"$L10"}],["$","$L12",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$c",null,{"name":"Next.Metadata","children":"$L13"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$14",[]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"xBOFIa-WnD2l4priPbtkH"}
+15:"/atelier-lumen/_next/static/chunks/0suh446jxgxtv.js"
+16:"/atelier-lumen/_next/static/chunks/2vp8bzay4uyoy.js"
+17:I[62474,["$15","$16"],"themeScript"]
+18:I[24100,["$15","$16"],"SmoothScroll"]
+19:I[11737,["$15","$16"],"Preloader"]
+1a:I[24100,["$15","$16"],"ScrollProgress"]
+1b:I[24100,["$15","$16"],"Cursor"]
+1c:I[70119,["$15","$16"],"Header"]
+1d:I[24100,["$15","$16"],"PageTransition"]
+1e:I[22016,["$15","$16"],""]
+1f:I[56691,["$15","$16"],"Footer"]
+20:I[24100,["$15","$16"],"BackToTop"]
+21:"/atelier-lumen/_next/static/chunks/0ibufouprvrqm.js"
+22:I[51372,["$15","$16","$21"],"PageHero"]
+23:I[8128,["$15","$16","$21"],"Collections"]
+24:I[61680,["$15","$16","$21"],"Process"]
+25:I[8128,["$15","$16","$21"],"Faq"]
+5:C
+7:["$","html",null,{"lang":"ar","dir":"rtl","className":"IQwK4a_variable qa1k8a_variable j7fipa_variable SqAOFG_variable","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$17"}}]}],["$","body",null,{"children":[["$","$L18",null,{}],["$","$L19",null,{"name":"Atelier Lumen","caption":"نُحمّض قصتكم"}],["$","$L1a",null,{}],["$","$L1b",null,{"labels":{"view":"عرض","drag":"مرّر"}}],["$","$L1c",null,{"locale":"ar"}],["$","main",null,{"children":["$","$L1d",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","section",null,{"className":"container-x flex min-h-[80vh] flex-col items-start justify-center pt-24","children":[["$","p",null,{"className":"eyebrow text-champagne","children":"404"}],["$","h1",null,{"className":"mt-6 font-display text-5xl font-light sm:text-7xl","children":"This page drifted out of frame."}],["$","$L1e",null,{"href":"/","className":"btn mt-10 border border-fg/25 hover:border-fg","children":"Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}],["$","$L1f",null,{"locale":"ar"}],["$","$L20",null,{"label":"العودة للأعلى"}]]}]]}]
+a:[["$","$L22",null,{"eyebrow":"التجربة","title":"الباقات والاستثمار","text":"تشمل كل باقة جلسة استشارة قبل الزفاف ومعرضًا خاصًا على الإنترنت وصورًا بدقة كاملة. التنقل داخل إسطنبول مشمول دائمًا."}],["$","$L23",null,{"locale":"ar"}],["$","$L24",null,{"locale":"ar"}],["$","$L25",null,{"locale":"ar"}]]
+10:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+13:[["$","title","0",{"children":"التجربة · Atelier Lumen"}],["$","meta","1",{"name":"description","content":"صور هادئة بروح سينمائية ليومٍ ستتمنى تذكّره دائمًا — العهود والتفاصيل والضوء المنساب في المكان."}],["$","link","2",{"rel":"alternate","hrefLang":"en","href":"/en"}],["$","link","3",{"rel":"alternate","hrefLang":"tr","href":"/tr"}],["$","link","4",{"rel":"alternate","hrefLang":"ar","href":"/ar"}]]
