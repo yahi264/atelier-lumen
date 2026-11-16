@@ -5,12 +5,13 @@ import { useSearchParams } from "next/navigation";
 import { AnimatePresence, motion } from "motion/react";
 import { ArrowRight, Check } from "lucide-react";
 import { collections } from "@/lib/content";
-import { getT, tr, type Locale } from "@/lib/i18n";
+import { getT, studio, tr, type Locale } from "@/lib/i18n";
 import { EASE } from "./Motion";
 
 // Booking inquiry. Posts to /api/inquiry (Next.js) or, on cPanel hosting, to the PHP
 // endpoint set in NEXT_PUBLIC_INQUIRY_ENDPOINT.
 const ENDPOINT = process.env.NEXT_PUBLIC_INQUIRY_ENDPOINT || "/api/inquiry";
+const STATIC = process.env.NEXT_PUBLIC_STATIC === "1";
 
 function Field({ label, name, type = "text", required, className }: { label: string; name: string; type?: string; required?: boolean; className?: string }) {
   return (
@@ -34,6 +35,23 @@ export function InquiryForm({ locale }: { locale: Locale }) {
     e.preventDefault();
     const data = Object.fromEntries(new FormData(e.currentTarget)) as Record<string, string>;
     if (!data.name?.trim() || !/^\S+@\S+\.\S+$/.test(data.email ?? "") || !data.date) return setState("invalid");
+    if (STATIC) {
+      // Static copy (GitHub Pages): no server, so the inquiry is sent through WhatsApp.
+      const lines = [
+        `Wedding inquiry — ${studio.name}`,
+        `Name: ${data.name}`,
+        `Email: ${data.email}`,
+        data.phone && `Phone: ${data.phone}`,
+        `Date: ${data.date}`,
+        data.venue && `Venue: ${data.venue}`,
+        data.guests && `Guests: ${data.guests}`,
+        data.collection && `Collection: ${data.collection}`,
+        data.privateOnly === "on" && "Private gallery only",
+        data.message && `\n${data.message}`,
+      ].filter(Boolean);
+      window.open(`https://wa.me/${studio.whatsapp}?text=${encodeURIComponent(lines.join("\n"))}`, "_blank", "noopener");
+      return setState("sent");
+    }
     setState("sending");
     try {
       const res = await fetch(ENDPOINT, {
